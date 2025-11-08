@@ -1,0 +1,8 @@
+{
+  "name": "minecraft-tpa-bot",
+  "version": "1.0.0",
+  "main": "minecraft-bot.js",
+  "dependencies": {
+    "mineflayer": "^4.17.0"
+  }
+}
